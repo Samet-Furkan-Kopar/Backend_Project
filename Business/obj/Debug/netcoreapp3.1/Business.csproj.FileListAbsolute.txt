@@ -1,0 +1,16 @@
+D:\enginhoca\Enginhoca\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\enginhoca\Enginhoca\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\enginhoca\Enginhoca\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\enginhoca\Enginhoca\Business\bin\Debug\netcoreapp3.1\Core.dll
+D:\enginhoca\Enginhoca\Business\bin\Debug\netcoreapp3.1\DataAcces.dll
+D:\enginhoca\Enginhoca\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\enginhoca\Enginhoca\Business\bin\Debug\netcoreapp3.1\DataAcces.pdb
+D:\enginhoca\Enginhoca\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\enginhoca\Enginhoca\Business\bin\Debug\netcoreapp3.1\Core.pdb
+D:\enginhoca\Enginhoca\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\enginhoca\Enginhoca\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\enginhoca\Enginhoca\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\enginhoca\Enginhoca\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\enginhoca\Enginhoca\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\enginhoca\Enginhoca\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\enginhoca\Enginhoca\Business\obj\Debug\netcoreapp3.1\Business.pdb

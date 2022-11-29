@@ -1,0 +1,14 @@
+D:\enginhoca\Enginhoca\DataAcces\bin\Debug\netcoreapp3.1\DataAcces.deps.json
+D:\enginhoca\Enginhoca\DataAcces\bin\Debug\netcoreapp3.1\DataAcces.dll
+D:\enginhoca\Enginhoca\DataAcces\bin\Debug\netcoreapp3.1\DataAcces.pdb
+D:\enginhoca\Enginhoca\DataAcces\bin\Debug\netcoreapp3.1\Core.dll
+D:\enginhoca\Enginhoca\DataAcces\bin\Debug\netcoreapp3.1\Entities.dll
+D:\enginhoca\Enginhoca\DataAcces\bin\Debug\netcoreapp3.1\Core.pdb
+D:\enginhoca\Enginhoca\DataAcces\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\enginhoca\Enginhoca\DataAcces\obj\Debug\netcoreapp3.1\DataAcces.csproj.AssemblyReference.cache
+D:\enginhoca\Enginhoca\DataAcces\obj\Debug\netcoreapp3.1\DataAcces.AssemblyInfoInputs.cache
+D:\enginhoca\Enginhoca\DataAcces\obj\Debug\netcoreapp3.1\DataAcces.AssemblyInfo.cs
+D:\enginhoca\Enginhoca\DataAcces\obj\Debug\netcoreapp3.1\DataAcces.csproj.CoreCompileInputs.cache
+D:\enginhoca\Enginhoca\DataAcces\obj\Debug\netcoreapp3.1\DataAcces.csproj.CopyComplete
+D:\enginhoca\Enginhoca\DataAcces\obj\Debug\netcoreapp3.1\DataAcces.dll
+D:\enginhoca\Enginhoca\DataAcces\obj\Debug\netcoreapp3.1\DataAcces.pdb
